@@ -1,0 +1,17 @@
+-- SmartStockApp - Database Seed
+-- -----------------------------
+-- Database engine: PostgreSQL
+--
+-- This file is intended to contain the initial data
+-- required to set up or test the application.
+--
+-- Seed data may include:
+--   - Initial records
+--   - Default application settings
+--   - Test data for development
+--
+-- Important:
+--   Add INSERT statements here once the actual database
+--   schema and required initial data have been confirmed.
+--
+-- No data is inserted by this file yet.

@@ -1,0 +1,17 @@
+-- SmartStockApp - Database Schema
+-- -------------------------------
+-- Database engine: PostgreSQL
+--
+-- This file is intended to document and define the
+-- database schema used by SmartStockApp.
+--
+-- Database objects may include:
+--   - Tables and columns
+--   - Primary keys and foreign keys
+--   - Constraints and indexes
+--
+-- Important:
+--   Add the actual schema definitions here once
+--   they have been confirmed from the application.
+--
+-- No tables are created by this file yet.
